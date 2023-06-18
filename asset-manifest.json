@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ETHNUS-Fetch-Data/static/css/main.1d766016.css",
+    "main.js": "/ETHNUS-Fetch-Data/static/js/main.5d6406f1.js",
+    "index.html": "/ETHNUS-Fetch-Data/index.html",
+    "main.1d766016.css.map": "/ETHNUS-Fetch-Data/static/css/main.1d766016.css.map",
+    "main.5d6406f1.js.map": "/ETHNUS-Fetch-Data/static/js/main.5d6406f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.5d6406f1.js"
+  ]
+}
